@@ -101,9 +101,10 @@ The application uses OpenRouteService for geocoding and route generation.
 
 ## Installation
 
-### Extract the project
+### Clone the project
 
 ```bash
+git clone https://github.com/arnavpathak10/spotter_assignment.git
 cd fuel_optimizer
 ```
 
